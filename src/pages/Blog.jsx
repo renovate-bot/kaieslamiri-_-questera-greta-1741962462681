@@ -7,21 +7,21 @@ const Blog = () => {
       id: 1,
       title: "Model Context Protocol (MCP)",
       excerpt: "Exploring the revolutionary Model Context Protocol (MCP) and its impact on AI development. Understanding how MCP is reshaping the way we approach context management in AI systems.",
-      date: "2024-03-15",
+      date: "2025-03-10",
       link: "https://www.linkedin.com/in/kaies-lamiri/"
     },
     {
       id: 2,
       title: "Manus: The New AI Revolution",
       excerpt: "Deep dive into Manus, the groundbreaking AI technology that's transforming the landscape of artificial intelligence. Discover how Manus is setting new standards in AI capabilities.",
-      date: "2024-03-10",
+      date: "2025-03-10",
       link: "https://www.linkedin.com/in/kaies-lamiri/"
     },
     {
       id: 3,
       title: "AI Ops: Best Practices for Excellence",
       excerpt: "Essential AI Operations practices that drive successful AI implementation. Learn about the key strategies and methodologies for maintaining robust AI systems at scale.",
-      date: "2024-03-05",
+      date: "2025-03-10",
       link: "https://www.linkedin.com/in/kaies-lamiri/"
     }
   ];
